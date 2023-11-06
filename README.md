@@ -13,7 +13,7 @@ The modified architecture for this project is as follows
 ![Model](./img/Model.png)
 
 ### Result
-We trained this model over the [**SegTrack v2 Dataset**](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) for foreground segmentation and achieve an accuracy around 98%. Following is a comparision over the ground truth
+We trained this model over the [**SegTrack v2 Dataset**](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) for foreground segmentation and achieve an accuracy around 98.44%. Following is a comparision over the ground truth
 
 ![Result](./img/output.png)
 
