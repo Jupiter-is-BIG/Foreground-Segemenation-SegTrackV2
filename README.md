@@ -13,13 +13,14 @@ The modified architecture for this project is as follows
 ![Model](./img/Model.png)
 
 ### Result
-We trained this model over the **SegTrack v2 Dataset** for foreground segmentation and achieve an accuracy around 98%. Following is a comparision over the ground truth
+We trained this model over the [**SegTrack v2 Dataset**](https://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html) for foreground segmentation and achieve an accuracy around 98%. Following is a comparision over the ground truth
 
 ![Result](./img/output.png)
 
 ### Setup
 To run the model, enter the virtual enviornment using
 ```
+virtualenv venv
 source venv/bin/activate
 ```
 and then install the packages using `pip` from `requirements.txt`
